@@ -1,0 +1,7 @@
+main (){
+  var finalName = 'Methot';
+  var firstName = 'Sarah';
+  var age = 21;
+print ('${finalName}, ${firstName}');
+  print ('I am ${age} years old');
+}
